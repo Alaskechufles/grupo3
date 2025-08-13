@@ -1,18 +1,13 @@
-/* import State from "./components/State" */
-
-import Effect from "./components/Effect"
-import Post from "./components/Post"
-import PostList from "./components/PostList"
 import Header from "./components/Header"
-
+import Main from "./components/Main"
 
 function App() {
 
 
   return (
     <>
-      <Header />
-
+      <Header></Header>
+      <Main />
     </>
   )
 }
