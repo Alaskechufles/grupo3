@@ -32,7 +32,7 @@ export default function State() {
     }
     return (
         <>
-            <h1 className="text-5xl font-bold text-red-500">Welcome to My App</h1>
+            <h2 className="text-5xl font-bold text-red-500">Welcome to My App</h2>
             <p>{name}</p>
             <hr />
             <p>{variable}</p>

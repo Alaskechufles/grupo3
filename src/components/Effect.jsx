@@ -20,7 +20,7 @@ export default function Effect() {
 
     return (
         <div>
-            <h1>Effect</h1>
+            <h2>Effect</h2>
             <p>This is the effect component</p>
             <p>{name}</p>
             <button onClick={() => change()}>change name</button>
