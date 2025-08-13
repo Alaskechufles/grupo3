@@ -3,7 +3,7 @@
 import Effect from "./components/Effect"
 import Post from "./components/Post"
 import PostList from "./components/PostList"
-
+import Header from "./components/Header"
 
 
 function App() {
@@ -11,10 +11,8 @@ function App() {
 
   return (
     <>
-      {/* <State /> */}
-      {/* <Effect></Effect> */}
-      <Post />
-      <PostList />
+      <Header />
+
     </>
   )
 }
