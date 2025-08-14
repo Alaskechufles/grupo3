@@ -1,11 +1,11 @@
-import AxiosTest from "./components/AxiosTest"
+import InputAC from "./components/InputAC"
 
 function App() {
 
 
   return (
     <>
-      <AxiosTest />
+      <InputAC />
     </>
   )
 }
