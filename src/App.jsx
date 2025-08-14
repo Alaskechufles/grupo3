@@ -1,15 +1,11 @@
-import Footer from "./components/Footer"
-import Header from "./components/Header"
-import Main from "./components/Main"
+import AxiosTest from "./components/AxiosTest"
 
 function App() {
 
 
   return (
     <>
-      <Header></Header>
-      <Main />
-      <Footer />
+      <AxiosTest />
     </>
   )
 }
