@@ -1,11 +1,13 @@
-import InputAC from "./components/InputAC"
+import PostList2 from "./components/PostList2"
+import Users from "./components/Users"
 
 function App() {
 
 
   return (
     <>
-      <InputAC />
+      <Users />
+      <PostList2 />
     </>
   )
 }
